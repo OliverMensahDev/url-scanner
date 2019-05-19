@@ -2,7 +2,7 @@
   "name": "olivermensahdev/scanner",
   "description": "Scan URLs from a CSV file and report inaccessible URLs",
   "keywords": ["url", "scanner", "csv"],
-  "homepage": "olivermensahdev.github.io",
+  "homepage": "https://olivermensahdev.github.io",
   "license": "MIT",
   "authors": [
     {
